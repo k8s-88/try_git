@@ -7,3 +7,5 @@ a new line
 in a castle
 
 there lived
+
+a coder
